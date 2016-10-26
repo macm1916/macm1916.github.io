@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightseagreen;
+    background-image: url("http://www.clker.com/cliparts/U/6/i/Y/o/B/celtic-knot-vine-hi.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+    font-family: Arial "Black", sans-serif;
+    font-size: 35px;
+    padding: 50px;
+    text-decoration: underline overline;
+}
+
+#MainMenu ul{
+    background-color: darkgreen;
+    padding: 20px;
+    margin: 50px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+#MainMenu li{
+    display: inline;
+    list-style-type: none;
+}
+
+#MainMenu li a{
+    padding: 10px;
+    margin:5px;
+    font-family: arial;
+    text-decoration: none;
+    background-color: lightblue;
+    border-radius: 5px;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 27px;
+    font-family: Helvetica;
+    padding: 5px;
+    color: black;
+}
+
+div {
+    border-style: solid;
+    border-color: darkgreen;
+    color:black;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    font-family: arial;
+    color: black;
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
